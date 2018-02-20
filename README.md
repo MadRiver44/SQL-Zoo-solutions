@@ -13,12 +13,12 @@ As you work through the exercises, struggle a little and don't check the answers
 
 ### Here are some more helpful links
 
-    <https://www.sqlteaching.com/#!joins>
+    https://www.sqlteaching.com/#!joins
 
-    <https://pgexercises.com/>
+    https://pgexercises.com/
 
-    <http://www.postgresqltutorial.com/>
+    http://www.postgresqltutorial.com/
 
-    <http://www.dofactory.com/sql/tutorial>
+    http://www.dofactory.com/sql/tutorial
 
 ## Good Luck!
